@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Inactive due to exams
+meow
 <p align="center">
   <img src="http://moe-counter.es3n1n.eu/@0CYW?theme=asoul" alt="Profile view count">
 </p>
